@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: this is for test of Agile and scrum lab
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
